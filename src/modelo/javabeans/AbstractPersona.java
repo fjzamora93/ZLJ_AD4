@@ -59,7 +59,7 @@ public abstract class AbstractPersona {
 	@Override
 	public String toString() {
 		return "AbstractPersona [nif=" + nif + ", nombre=" + nombre + ", direccion=" + direccion + ", telefono="
-				+ telefono + "]";
+				+ telefono + "] \n";
 	}
 
 	

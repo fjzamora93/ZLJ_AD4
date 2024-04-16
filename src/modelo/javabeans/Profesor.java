@@ -30,7 +30,7 @@ public class Profesor extends AbstractPersona  {
 	@Override
 	public String toString() {
 		return "Profesor [competencias=" + competencias + ", nif=" + nif + ", nombre=" + nombre + ", direccion="
-				+ direccion + ", telefono=" + telefono + "]";
+				+ direccion + ", telefono=" + telefono + "]\n";
 	}
 
 }

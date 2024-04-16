@@ -28,7 +28,7 @@ public class Administrativo extends AbstractPersona {
 	@Override
 	public String toString() {
 		return "Administrativo [tareas=" + tareas + ", nif=" + nif + ", nombre=" + nombre + ", direccion=" + direccion
-				+ ", telefono=" + telefono + "]";
+				+ ", telefono=" + telefono + "]\n";
 	}
 	
 	

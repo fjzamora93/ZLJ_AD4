@@ -28,7 +28,7 @@ public class Alumno extends AbstractPersona  {
 	@Override
 	public String toString() {
 		return "Alumno [curso=" + curso + ", nif=" + nif + ", nombre=" + nombre + ", direccion=" + direccion
-				+ ", telefono=" + telefono + "]";
+				+ ", telefono=" + telefono + "]\n";
 	}
 	
 	

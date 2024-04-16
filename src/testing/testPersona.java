@@ -1,3 +1,5 @@
+//TEST RELACIONADOS CON LA CLASE ABSTRACTA PERSONA Y TODAS LAS CLASES A LAS QUE HEREDA
+
 package testing;
 
 import modelo.javabeans.AbstractPersona;
